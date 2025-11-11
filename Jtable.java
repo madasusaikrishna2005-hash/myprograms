@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class Jtable{
     public static void main(String[] args) {
-    JFrame f=new JFrame ("label example");
+    JFrame f=new JFrame ("jframe label example");
    JLabel l=new JLabel("SAI KRISHNA");
    l.setBounds(50,50,100,150);
    f.add(l);
